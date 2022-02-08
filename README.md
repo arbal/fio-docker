@@ -1,7 +1,7 @@
 # fio-docker
 
-[![docker build](https://img.shields.io/docker/cloud/build/arbal/fio.svg)](https://hub.docker.com/r/arbal/fio)
-[![docker pulls](https://img.shields.io/docker/pulls/arbal/fio.svg)](https://hub.docker.com/r/arbal/fio)
+[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/arbal/fio)](https://hub.docker.com/r/arbal/fio)
+[![Docker Pulls](https://img.shields.io/docker/pulls/arbal/fio)](https://hub.docker.com/r/arbal/fio)
 [![license](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 fio Docker Image based on Alpine Linux.
