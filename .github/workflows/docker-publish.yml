@@ -11,7 +11,8 @@ on:
     # Publish semver tags as releases.
     tags: [ 'v*.*.*' ]
   pull_request:
-    branches: [ ]
+    branches: [ ] 
+  workflow_dispatch: # on button press also
 
 env:
   # Use docker.io for Docker Hub if empty
